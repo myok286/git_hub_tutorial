@@ -1,1 +1,1 @@
-# git_hub_tutorial
+# Hey tutorial purpose
